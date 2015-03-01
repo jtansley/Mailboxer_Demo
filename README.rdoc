@@ -4,6 +4,11 @@ Created for Rails v4.2
 
 This is a demo that utilizes the Mailboxer Ruby gem to provide private messaging functionality between users. I created this app to demonstrate Mailboxer functionality explained in a tutorial I wrote on my blog.
 
+Visit a live demo of the app here:
+
+https://radiant-refuge-2654.herokuapp.com/
+
+
 For more information please visit my blog:
 
 http://jamestansley.com/2014/02/22/customizing-the-mailboxer-ruby-gem-2/
