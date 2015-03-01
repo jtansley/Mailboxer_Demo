@@ -1,0 +1,44 @@
+.emailTD{
+	height:50px;
+	vertical-align:center;
+	border-bottom:1px solid #CCC;
+	color: #666;
+	padding-left:10px;
+	background-color: #eee;
+}
+.emailtrashTD{
+	height:50px;
+	vertical-align:center;
+	border-bottom:1px solid #CCC;
+	color: #666;
+	padding-left:10px;
+	padding-right:20px;
+	background-color: #eee;
+	width:50px;
+}
+.emailsubjectTD{
+	height:50px;
+	vertical-align:center;
+	border-bottom:1px solid #CCC;
+	color: #666;
+	padding-left:10px;
+	background-color: #eee;
+	width:300px;
+}
+.emailsenderTD{
+	height:50px;
+	vertical-align:center;
+	border-bottom:1px solid #CCC;
+	color: #666;
+	padding-left:10px;
+	background-color: #eee;
+	width:300px;
+}
+.emailTH{
+	background-color: #150543;
+	color:white;
+	height:50px;
+	vertical-align:center;
+	text-align:left;
+	padding-left:10px;
+}
