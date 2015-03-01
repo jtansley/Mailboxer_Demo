@@ -1,28 +1,12 @@
-== README
+== Mailboxer Demo by James Tansley
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created for Rails v4.2
 
-Things you may want to cover:
+This is a demo that utilizes the Mailboxer Ruby gem to provide private messaging functionality between users. I created this app to demonstrate Mailboxer functionality explained in a tutorial I wrote on my blog.
 
-* Ruby version
+For more information please visit my blog:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+http://jamestansley.com/2014/02/22/customizing-the-mailboxer-ruby-gem-2/
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This app is completely open source and 100% free to use!
